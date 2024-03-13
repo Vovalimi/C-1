@@ -1,0 +1,15 @@
+D:\C#.Net Krok\Zavdany2kotoroe1\bin\Debug\net6.0\Zavdany2kotoroe1.exe
+D:\C#.Net Krok\Zavdany2kotoroe1\bin\Debug\net6.0\Zavdany2kotoroe1.deps.json
+D:\C#.Net Krok\Zavdany2kotoroe1\bin\Debug\net6.0\Zavdany2kotoroe1.runtimeconfig.json
+D:\C#.Net Krok\Zavdany2kotoroe1\bin\Debug\net6.0\Zavdany2kotoroe1.dll
+D:\C#.Net Krok\Zavdany2kotoroe1\bin\Debug\net6.0\Zavdany2kotoroe1.pdb
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.csproj.AssemblyReference.cache
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.AssemblyInfoInputs.cache
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.AssemblyInfo.cs
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.csproj.CoreCompileInputs.cache
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.dll
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\refint\Zavdany2kotoroe1.dll
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.pdb
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\Zavdany2kotoroe1.genruntimeconfig.cache
+D:\C#.Net Krok\Zavdany2kotoroe1\obj\Debug\net6.0\ref\Zavdany2kotoroe1.dll
